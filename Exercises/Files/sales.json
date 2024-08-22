@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Product": "Supplies office",
+    "Price": 67.50,
+    "DateSale": "2024-08-22T20:07:20.0031293-03:00",
+    "Chargeback_Price": 0.0,
+    "DateCancellation": "0001-01-01T00:00:00"
+  },
+  {
+    "Id": 2,
+    "Product": "Software license",
+    "Price": 150.00,
+    "DateSale": "2024-08-22T20:07:20.0031293-03:00",
+    "Chargeback_Price": 0.0,
+    "DateCancellation": "0001-01-01T00:00:00"
+  }
+]

@@ -1,16 +1,7 @@
-﻿namespace dotnetBootcamp;
-
+﻿using dotnetBootcamp.Exercises;
 using dotnetBootcamp.FundamentalsChallenge;
-class Program
-{
-    static void Main(string[] args)
-    {
-        MenuWOnRent menu = new MenuWOnRent();
 
-        menu.Menu();
-    }
-}
+new Sale(0, "", 0, DateTime.Now).AddSale();
 
-
-
+new Sale(0, "", 0, DateTime.Now).GetCancelattion();
 
