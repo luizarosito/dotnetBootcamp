@@ -1,7 +1,4 @@
-﻿using dotnetBootcamp.Exercises;
-using dotnetBootcamp.FundamentalsChallenge;
-using dotnetBootcamp.HostingProjectChallenge;
+﻿using dotnetBootcamp.SmartphoneChallenge;
 
-
-
-new EasyHosting().AddReservationtion();
+new HomeStore().DownloadWhatsapp();
+new HomeStore().DownloadTelegram();
